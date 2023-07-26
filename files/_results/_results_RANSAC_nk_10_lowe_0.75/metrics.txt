@@ -1,0 +1,1074 @@
+FILE: ./files/_queries/oggetto_1/1.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 16.626 sec.
+RESULTS:
+ ---> Image 1: 351.png, matched keypoint: 5,  distance: 160.20699157714844
+ ---> Image 2: 375.png, matched keypoint: 4,  distance: 123.25082302093506
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  16.626 , Variance:  0.0 , Standard Deviation:  0.0 , Max value:  16.626 , Min value:  16.626
+ ---> MATCHED KEYPOINT:
+ ---> Average:  5.0 , Variance:  0.0 , Standard Deviation:  0.0 , Max value:  5 , Min value:  5
+ ---> AVERAGE DISTANCES:
+ ---> Average:  160.207 , Variance:  0.0 , Standard Deviation:  0.0 , Max value:  160.207 , Min value:  160.207
+
+
+FILE: ./files/_queries/oggetto_1/2.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 16.068 sec.
+RESULTS:
+ ---> Image 3: 368.png, matched keypoint: 4,  distance: 194.23107528686523
+ ---> Image 4: 092.png, matched keypoint: 4,  distance: 204.94615173339844
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  16.347 , Variance:  0.078 , Standard Deviation:  0.279 , Max value:  16.626 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.5 , Variance:  0.25 , Standard Deviation:  0.5 , Max value:  5 , Min value:  4
+ ---> AVERAGE DISTANCES:
+ ---> Average:  177.219 , Variance:  289.41 , Standard Deviation:  17.012 , Max value:  194.231 , Min value:  160.207
+
+
+FILE: ./files/_queries/oggetto_1/3.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 17.734 sec.
+RESULTS:
+ ---> Image 5: 391.png, matched keypoint: 4,  distance: 109.9629135131836
+ ---> Image 6: 375.png, matched keypoint: 4,  distance: 114.64253807067871
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  16.809 , Variance:  0.479 , Standard Deviation:  0.692 , Max value:  17.734 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.333 , Variance:  0.222 , Standard Deviation:  0.471 , Max value:  5 , Min value:  4
+ ---> AVERAGE DISTANCES:
+ ---> Average:  154.8 , Variance:  1198.137 , Standard Deviation:  34.614 , Max value:  194.231 , Min value:  109.963
+
+
+FILE: ./files/_queries/oggetto_1/4.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.440 sec.
+RESULTS:
+ ---> Image 7: 390.png, matched keypoint: 4,  distance: 117.609694480896
+ ---> Image 8: 375.png, matched keypoint: 4,  distance: 132.40018939971924
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  18.217 , Variance:  6.304 , Standard Deviation:  2.511 , Max value:  22.44 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.25 , Variance:  0.188 , Standard Deviation:  0.433 , Max value:  5 , Min value:  4
+ ---> AVERAGE DISTANCES:
+ ---> Average:  145.503 , Variance:  1157.942 , Standard Deviation:  34.029 , Max value:  194.231 , Min value:  109.963
+
+
+FILE: ./files/_queries/oggetto_1/5.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 23.437 sec.
+RESULTS:
+ ---> Image 9: 390.png, matched keypoint: 4,  distance: 86.59182453155518
+ ---> Image 10: 368.png, matched keypoint: 4,  distance: 123.71310806274414
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  19.261 , Variance:  9.403 , Standard Deviation:  3.066 , Max value:  23.437 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.2 , Variance:  0.16 , Standard Deviation:  0.4 , Max value:  5 , Min value:  4
+ ---> AVERAGE DISTANCES:
+ ---> Average:  133.72 , Variance:  1481.631 , Standard Deviation:  38.492 , Max value:  194.231 , Min value:  86.592
+
+
+FILE: ./files/_queries/oggetto_1/6.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 23.328 sec.
+RESULTS:
+ ---> Image 11: 075.png, matched keypoint: 5,  distance: 140.37154541015624
+ ---> Image 12: 390.png, matched keypoint: 4,  distance: 77.9462776184082
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  19.939 , Variance:  10.133 , Standard Deviation:  3.183 , Max value:  23.437 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.333 , Variance:  0.222 , Standard Deviation:  0.471 , Max value:  5 , Min value:  4
+ ---> AVERAGE DISTANCES:
+ ---> Average:  134.829 , Variance:  1240.837 , Standard Deviation:  35.226 , Max value:  194.231 , Min value:  86.592
+
+
+FILE: ./files/_queries/oggetto_1/7.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 26.581 sec.
+RESULTS:
+ ---> Image 13: 368.png, matched keypoint: 8,  distance: 167.98643827438354
+ ---> Image 14: 378.png, matched keypoint: 5,  distance: 141.47972259521484
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  20.888 , Variance:  14.088 , Standard Deviation:  3.753 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.857 , Variance:  1.837 , Standard Deviation:  1.355 , Max value:  8 , Min value:  4
+ ---> AVERAGE DISTANCES:
+ ---> Average:  139.566 , Variance:  1198.197 , Standard Deviation:  34.615 , Max value:  194.231 , Min value:  86.592
+
+
+FILE: ./files/_queries/oggetto_1/8.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 23.122 sec.
+RESULTS:
+ ---> Image 15: 033.png, matched keypoint: 5,  distance: 125.88851470947266
+ ---> Image 16: 399.png, matched keypoint: 5,  distance: 157.89767456054688
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.167 , Variance:  12.873 , Standard Deviation:  3.588 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.875 , Variance:  1.609 , Standard Deviation:  1.269 , Max value:  8 , Min value:  4
+ ---> AVERAGE DISTANCES:
+ ---> Average:  137.856 , Variance:  1068.883 , Standard Deviation:  32.694 , Max value:  194.231 , Min value:  86.592
+
+
+FILE: ./files/_queries/oggetto_1/9.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.499 sec.
+RESULTS:
+ ---> Image 17: 047.png, matched keypoint: 5,  distance: 156.9830795288086
+ ---> Image 18: 027.png, matched keypoint: 4,  distance: 82.48919868469238
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.315 , Variance:  11.618 , Standard Deviation:  3.409 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.889 , Variance:  1.432 , Standard Deviation:  1.197 , Max value:  8 , Min value:  4
+ ---> AVERAGE DISTANCES:
+ ---> Average:  139.981 , Variance:  986.25 , Standard Deviation:  31.405 , Max value:  194.231 , Min value:  86.592
+
+
+FILE: ./files/_queries/oggetto_2/1.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 21.680 sec.
+RESULTS:
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.352 , Variance:  10.468 , Standard Deviation:  3.235 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.4 , Variance:  3.44 , Standard Deviation:  1.855 , Max value:  8 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  125.983 , Variance:  2651.155 , Standard Deviation:  51.489 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_2/10.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.140 sec.
+RESULTS:
+ ---> Image 19: 026.png, matched keypoint: 6,  distance: 103.81463813781738
+ ---> Image 20: 033.png, matched keypoint: 6,  distance: 112.1687552134196
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.423 , Variance:  9.568 , Standard Deviation:  3.093 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.545 , Variance:  3.339 , Standard Deviation:  1.827 , Max value:  8 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  123.968 , Variance:  2450.756 , Standard Deviation:  49.505 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_2/2.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 21.520 sec.
+RESULTS:
+ ---> Image 21: 399.png, matched keypoint: 4,  distance: 177.79098510742188
+ ---> Image 22: 368.png, matched keypoint: 4,  distance: 192.95630264282227
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.431 , Variance:  8.771 , Standard Deviation:  2.962 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.5 , Variance:  3.083 , Standard Deviation:  1.756 , Max value:  8 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  128.453 , Variance:  2467.82 , Standard Deviation:  49.677 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_2/3.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.551 sec.
+RESULTS:
+ ---> Image 23: 029.png, matched keypoint: 6,  distance: 114.41602516174316
+ ---> Image 24: 015.png, matched keypoint: 5,  distance: 141.61337966918944
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.517 , Variance:  8.186 , Standard Deviation:  2.861 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.615 , Variance:  3.006 , Standard Deviation:  1.734 , Max value:  8 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  127.373 , Variance:  2291.978 , Standard Deviation:  47.875 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_2/4.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 23.320 sec.
+RESULTS:
+ ---> Image 25: 035.png, matched keypoint: 5,  distance: 135.2216598510742
+ ---> Image 26: 033.png, matched keypoint: 5,  distance: 141.8496307373047
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.646 , Variance:  7.816 , Standard Deviation:  2.796 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.643 , Variance:  2.801 , Standard Deviation:  1.674 , Max value:  8 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  127.934 , Variance:  2132.351 , Standard Deviation:  46.177 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_2/5.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 23.796 sec.
+RESULTS:
+ ---> Image 27: 035.png, matched keypoint: 4,  distance: 92.04267406463623
+ ---> Image 28: 011.png, matched keypoint: 4,  distance: 107.72585964202881
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.79 , Variance:  7.583 , Standard Deviation:  2.754 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.6 , Variance:  2.64 , Standard Deviation:  1.625 , Max value:  8 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  125.541 , Variance:  2070.348 , Standard Deviation:  45.501 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_2/6.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.681 sec.
+RESULTS:
+ ---> Image 29: 016.png, matched keypoint: 4,  distance: 63.83644962310791
+ ---> Image 30: 049.png, matched keypoint: 4,  distance: 70.41061210632324
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.845 , Variance:  7.156 , Standard Deviation:  2.675 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.562 , Variance:  2.496 , Standard Deviation:  1.58 , Max value:  8 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  121.685 , Variance:  2164.046 , Standard Deviation:  46.519 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_2/7.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 21.649 sec.
+RESULTS:
+ ---> Image 31: 047.png, matched keypoint: 9,  distance: 133.7540529039171
+ ---> Image 32: 026.png, matched keypoint: 7,  distance: 133.1588499886649
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.834 , Variance:  6.737 , Standard Deviation:  2.596 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.824 , Variance:  3.439 , Standard Deviation:  1.855 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  122.395 , Variance:  2044.814 , Standard Deviation:  45.22 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_2/8.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 21.547 sec.
+RESULTS:
+ ---> Image 33: 033.png, matched keypoint: 7,  distance: 116.15005247933524
+ ---> Image 34: 047.png, matched keypoint: 7,  distance: 135.15687670026506
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.818 , Variance:  6.367 , Standard Deviation:  2.523 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.944 , Variance:  3.497 , Standard Deviation:  1.87 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  122.048 , Variance:  1933.259 , Standard Deviation:  43.969 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_2/9.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 21.896 sec.
+RESULTS:
+ ---> Image 35: 003.png, matched keypoint: 6,  distance: 155.71281496683756
+ ---> Image 36: 029.png, matched keypoint: 4,  distance: 89.69716835021973
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.822 , Variance:  6.032 , Standard Deviation:  2.456 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  5.0 , Variance:  3.368 , Standard Deviation:  1.835 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  123.82 , Variance:  1888.018 , Standard Deviation:  43.451 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_3/1.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 21.341 sec.
+RESULTS:
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.798 , Variance:  5.741 , Standard Deviation:  2.396 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.75 , Variance:  4.388 , Standard Deviation:  2.095 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  117.629 , Variance:  2521.853 , Standard Deviation:  50.218 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_3/2.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 21.095 sec.
+RESULTS:
+ ---> Image 37: 059.png, matched keypoint: 8,  distance: 162.29510116577148
+ ---> Image 38: 093.png, matched keypoint: 7,  distance: 134.3977541242327
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.764 , Variance:  5.49 , Standard Deviation:  2.343 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.905 , Variance:  4.658 , Standard Deviation:  2.158 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  119.756 , Variance:  2492.246 , Standard Deviation:  49.922 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_3/3.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.025 sec.
+RESULTS:
+ ---> Image 39: 059.png, matched keypoint: 7,  distance: 170.35070146833147
+ ---> Image 40: 092.png, matched keypoint: 5,  distance: 138.68267822265625
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.776 , Variance:  5.244 , Standard Deviation:  2.29 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  5.0 , Variance:  4.636 , Standard Deviation:  2.153 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  122.055 , Variance:  2490.031 , Standard Deviation:  49.9 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_3/4.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.088 sec.
+RESULTS:
+ ---> Image 41: 059.png, matched keypoint: 4,  distance: 137.64729499816895
+ ---> Image 42: 068.png, matched keypoint: 4,  distance: 147.1502571105957
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.79 , Variance:  5.02 , Standard Deviation:  2.241 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.957 , Variance:  4.476 , Standard Deviation:  2.116 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  122.733 , Variance:  2391.879 , Standard Deviation:  48.907 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_3/5.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 20.907 sec.
+RESULTS:
+ ---> Image 43: 068.png, matched keypoint: 4,  distance: 158.51891136169434
+ ---> Image 44: 088.png, matched keypoint: 4,  distance: 176.76179313659668
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.753 , Variance:  4.842 , Standard Deviation:  2.2 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.917 , Variance:  4.326 , Standard Deviation:  2.08 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  124.224 , Variance:  2343.353 , Standard Deviation:  48.408 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_3/6.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.420 sec.
+RESULTS:
+ ---> Image 45: 059.png, matched keypoint: 7,  distance: 191.56123897007532
+ ---> Image 46: 092.png, matched keypoint: 6,  distance: 146.5703468322754
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.78 , Variance:  4.665 , Standard Deviation:  2.16 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  5.0 , Variance:  4.32 , Standard Deviation:  2.078 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  126.918 , Variance:  2423.734 , Standard Deviation:  49.231 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_3/7.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 21.234 sec.
+RESULTS:
+ ---> Image 47: 391.png, matched keypoint: 4,  distance: 172.47362899780273
+ ---> Image 48: 090.png, matched keypoint: 4,  distance: 193.43013381958008
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.759 , Variance:  4.497 , Standard Deviation:  2.121 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.962 , Variance:  4.191 , Standard Deviation:  2.047 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  128.67 , Variance:  2407.264 , Standard Deviation:  49.064 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_3/8.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.294 sec.
+RESULTS:
+ ---> Image 49: 088.png, matched keypoint: 7,  distance: 118.35899788992745
+ ---> Image 50: 068.png, matched keypoint: 7,  distance: 177.82671574183874
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.778 , Variance:  4.341 , Standard Deviation:  2.083 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  5.037 , Variance:  4.184 , Standard Deviation:  2.045 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  128.288 , Variance:  2321.898 , Standard Deviation:  48.186 , Max value:  194.231 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_3/9.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.402 sec.
+RESULTS:
+ ---> Image 51: 071.png, matched keypoint: 6,  distance: 213.0532658894857
+ ---> Image 52: 059.png, matched keypoint: 5,  distance: 171.40304107666014
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.801 , Variance:  4.199 , Standard Deviation:  2.049 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  5.071 , Variance:  4.066 , Standard Deviation:  2.017 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  131.315 , Variance:  2486.421 , Standard Deviation:  49.864 , Max value:  213.053 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_4/1.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 23.422 sec.
+RESULTS:
+ ---> Image 53: 326.png, matched keypoint: 4,  distance: 167.41157341003418
+ ---> Image 54: 155.png, matched keypoint: 4,  distance: 205.35596466064453
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.857 , Variance:  4.142 , Standard Deviation:  2.035 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  5.034 , Variance:  3.964 , Standard Deviation:  1.991 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  132.56 , Variance:  2444.062 , Standard Deviation:  49.437 , Max value:  213.053 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_4/2.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 23.989 sec.
+RESULTS:
+ ---> Image 55: 345.png, matched keypoint: 4,  distance: 102.69983100891113
+ ---> Image 56: 304.png, matched keypoint: 4,  distance: 103.19438552856445
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.928 , Variance:  4.15 , Standard Deviation:  2.037 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  5.0 , Variance:  3.867 , Standard Deviation:  1.966 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  131.565 , Variance:  2391.323 , Standard Deviation:  48.901 , Max value:  213.053 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_4/3.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 21.455 sec.
+RESULTS:
+ ---> Image 57: 264.png, matched keypoint: 4,  distance: 268.83946990966797
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.912 , Variance:  4.023 , Standard Deviation:  2.006 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.968 , Variance:  3.773 , Standard Deviation:  1.942 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  135.993 , Variance:  2902.457 , Standard Deviation:  53.874 , Max value:  268.839 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_4/4.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 21.783 sec.
+RESULTS:
+ ---> Image 58: 304.png, matched keypoint: 4,  distance: 80.53299236297607
+ ---> Image 59: 303.png, matched keypoint: 4,  distance: 97.01611328125
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.908 , Variance:  3.898 , Standard Deviation:  1.974 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.938 , Variance:  3.684 , Standard Deviation:  1.919 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  134.26 , Variance:  2904.871 , Standard Deviation:  53.897 , Max value:  268.839 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_5/1.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 20.989 sec.
+RESULTS:
+ ---> Image 60: 276.png, matched keypoint: 4,  distance: 270.03155517578125
+ ---> Image 61: 108.png, matched keypoint: 4,  distance: 274.9738426208496
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.881 , Variance:  3.805 , Standard Deviation:  1.951 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.909 , Variance:  3.598 , Standard Deviation:  1.897 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  138.374 , Variance:  3358.522 , Standard Deviation:  57.953 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_5/2.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 21.597 sec.
+RESULTS:
+ ---> Image 62: 310.png, matched keypoint: 4,  distance: 228.87013244628906
+ ---> Image 63: 347.png, matched keypoint: 4,  distance: 229.2203598022461
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.872 , Variance:  3.695 , Standard Deviation:  1.922 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.882 , Variance:  3.516 , Standard Deviation:  1.875 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  141.036 , Variance:  3493.526 , Standard Deviation:  59.106 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_5/3.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.265 sec.
+RESULTS:
+ ---> Image 64: 237.png, matched keypoint: 4,  distance: 207.63658142089844
+ ---> Image 65: 326.png, matched keypoint: 4,  distance: 302.199520111084
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.883 , Variance:  3.594 , Standard Deviation:  1.896 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.857 , Variance:  3.437 , Standard Deviation:  1.854 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  142.939 , Variance:  3516.823 , Standard Deviation:  59.303 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_5/4.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 23.274 sec.
+RESULTS:
+ ---> Image 66: 101.png, matched keypoint: 4,  distance: 190.9979190826416
+ ---> Image 67: 233.png, matched keypoint: 4,  distance: 203.07395935058594
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.922 , Variance:  3.546 , Standard Deviation:  1.883 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.833 , Variance:  3.361 , Standard Deviation:  1.833 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  144.274 , Variance:  3481.51 , Standard Deviation:  59.004 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_6/1.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 20.561 sec.
+RESULTS:
+ ---> Image 68: 277.png, matched keypoint: 4,  distance: 154.83406734466553
+ ---> Image 69: 162.png, matched keypoint: 4,  distance: 203.16387557983398
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.885 , Variance:  3.499 , Standard Deviation:  1.871 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.811 , Variance:  3.289 , Standard Deviation:  1.813 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  144.559 , Variance:  3390.347 , Standard Deviation:  58.227 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_6/2.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 23.903 sec.
+RESULTS:
+ ---> Image 70: 300.png, matched keypoint: 6,  distance: 160.73182932535806
+ ---> Image 71: 296.png, matched keypoint: 6,  distance: 162.10574213663736
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.938 , Variance:  3.511 , Standard Deviation:  1.874 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.842 , Variance:  3.238 , Standard Deviation:  1.8 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  144.985 , Variance:  3307.83 , Standard Deviation:  57.514 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_6/3.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.795 sec.
+RESULTS:
+ ---> Image 72: 159.png, matched keypoint: 4,  distance: 132.50992584228516
+ ---> Image 73: 197.png, matched keypoint: 4,  distance: 143.4460563659668
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.96 , Variance:  3.439 , Standard Deviation:  1.855 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.821 , Variance:  3.173 , Standard Deviation:  1.781 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  144.665 , Variance:  3226.902 , Standard Deviation:  56.806 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/oggetto_6/4.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.681 sec.
+RESULTS:
+ ---> Image 74: 318.png, matched keypoint: 5,  distance: 218.0200958251953
+ ---> Image 75: 276.png, matched keypoint: 4,  distance: 89.78390121459961
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.978 , Variance:  3.366 , Standard Deviation:  1.835 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.825 , Variance:  3.094 , Standard Deviation:  1.759 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  146.499 , Variance:  3277.391 , Standard Deviation:  57.249 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/cacciavite_1.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 21.699 sec.
+RESULTS:
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.972 , Variance:  3.286 , Standard Deviation:  1.813 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.707 , Variance:  3.573 , Standard Deviation:  1.89 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  142.926 , Variance:  3708.147 , Standard Deviation:  60.895 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/cacciavite_2.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.194 sec.
+RESULTS:
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.977 , Variance:  3.209 , Standard Deviation:  1.791 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.595 , Variance:  4.003 , Standard Deviation:  2.001 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  139.523 , Variance:  4094.652 , Standard Deviation:  63.989 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/cacciavite_3.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.178 sec.
+RESULTS:
+ ---> Image 76: 277.png, matched keypoint: 4,  distance: 199.9322853088379
+ ---> Image 77: 289.png, matched keypoint: 4,  distance: 221.2437515258789
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  21.982 , Variance:  3.135 , Standard Deviation:  1.771 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.581 , Variance:  3.918 , Standard Deviation:  1.979 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  140.927 , Variance:  4082.322 , Standard Deviation:  63.893 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/cacciavite_4.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 25.520 sec.
+RESULTS:
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.062 , Variance:  3.342 , Standard Deviation:  1.828 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.477 , Variance:  4.295 , Standard Deviation:  2.072 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  137.725 , Variance:  4430.659 , Standard Deviation:  66.563 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/cacciavite_5.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 23.739 sec.
+RESULTS:
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.099 , Variance:  3.329 , Standard Deviation:  1.824 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.378 , Variance:  4.635 , Standard Deviation:  2.153 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  134.664 , Variance:  4744.345 , Standard Deviation:  68.879 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/chiave_candela_1.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 25.469 sec.
+RESULTS:
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.172 , Variance:  3.498 , Standard Deviation:  1.87 , Max value:  26.581 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.283 , Variance:  4.942 , Standard Deviation:  2.223 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  131.736 , Variance:  5026.863 , Standard Deviation:  70.9 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/chiave_candela_2.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 28.888 sec.
+RESULTS:
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.315 , Variance:  4.363 , Standard Deviation:  2.089 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.191 , Variance:  5.219 , Standard Deviation:  2.284 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  128.934 , Variance:  5281.297 , Standard Deviation:  72.673 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/chiave_candela_3.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.835 sec.
+RESULTS:
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.326 , Variance:  4.277 , Standard Deviation:  2.068 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.104 , Variance:  5.468 , Standard Deviation:  2.338 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  126.247 , Variance:  5510.385 , Standard Deviation:  74.232 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/chiave_verticale_1.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.938 sec.
+RESULTS:
+ ---> Image 78: 111.png, matched keypoint: 4,  distance: 245.57682418823242
+ ---> Image 79: 277.png, matched keypoint: 4,  distance: 280.42000579833984
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.339 , Variance:  4.197 , Standard Deviation:  2.049 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.102 , Variance:  5.357 , Standard Deviation:  2.315 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  128.683 , Variance:  5682.6 , Standard Deviation:  75.383 , Max value:  270.032 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/chiave_verticale_2.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 27.348 sec.
+RESULTS:
+ ---> Image 80: 073.png, matched keypoint: 4,  distance: 311.85074615478516
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.439 , Variance:  4.605 , Standard Deviation:  2.146 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.1 , Variance:  5.25 , Standard Deviation:  2.291 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  132.346 , Variance:  6226.538 , Standard Deviation:  78.908 , Max value:  311.851 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/chiave_verticale_3.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 25.031 sec.
+RESULTS:
+ ---> Image 81: 146.png, matched keypoint: 4,  distance: 151.23154258728027
+ ---> Image 82: 114.png, matched keypoint: 4,  distance: 160.0476303100586
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.49 , Variance:  4.644 , Standard Deviation:  2.155 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.098 , Variance:  5.147 , Standard Deviation:  2.269 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  132.716 , Variance:  6111.305 , Standard Deviation:  78.175 , Max value:  311.851 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/dado_1.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 25.556 sec.
+RESULTS:
+ ---> Image 83: 074.png, matched keypoint: 4,  distance: 272.7922477722168
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.549 , Variance:  4.732 , Standard Deviation:  2.175 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.096 , Variance:  5.048 , Standard Deviation:  2.247 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  135.41 , Variance:  6363.855 , Standard Deviation:  79.774 , Max value:  311.851 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/dado_2.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 24.414 sec.
+RESULTS:
+ ---> Image 84: 264.png, matched keypoint: 4,  distance: 291.9792785644531
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.584 , Variance:  4.707 , Standard Deviation:  2.17 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.094 , Variance:  4.953 , Standard Deviation:  2.226 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  138.364 , Variance:  6697.581 , Standard Deviation:  81.839 , Max value:  311.851 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/dado_3.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.557 sec.
+RESULTS:
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.583 , Variance:  4.62 , Standard Deviation:  2.149 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.019 , Variance:  5.166 , Standard Deviation:  2.273 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  135.802 , Variance:  6921.518 , Standard Deviation:  83.196 , Max value:  311.851 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/fascia_1.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 21.297 sec.
+RESULTS:
+ ---> Image 85: 277.png, matched keypoint: 4,  distance: 345.0773162841797
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.56 , Variance:  4.566 , Standard Deviation:  2.137 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  4.018 , Variance:  5.072 , Standard Deviation:  2.252 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  139.607 , Variance:  7577.487 , Standard Deviation:  87.049 , Max value:  345.077 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/fascia_2.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 23.098 sec.
+RESULTS:
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.57 , Variance:  4.489 , Standard Deviation:  2.119 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  3.946 , Variance:  5.265 , Standard Deviation:  2.295 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  137.114 , Variance:  7783.998 , Standard Deviation:  88.227 , Max value:  345.077 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/fascia_3.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 21.572 sec.
+RESULTS:
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.552 , Variance:  4.428 , Standard Deviation:  2.104 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  3.877 , Variance:  5.441 , Standard Deviation:  2.333 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  134.709 , Variance:  7971.479 , Standard Deviation:  89.283 , Max value:  345.077 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/fascia_4.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.847 sec.
+RESULTS:
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.557 , Variance:  4.353 , Standard Deviation:  2.086 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  3.81 , Variance:  5.602 , Standard Deviation:  2.367 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  132.386 , Variance:  8141.515 , Standard Deviation:  90.23 , Max value:  345.077 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/fascia_5.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 24.378 sec.
+RESULTS:
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.588 , Variance:  4.334 , Standard Deviation:  2.082 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  3.746 , Variance:  5.749 , Standard Deviation:  2.398 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  130.142 , Variance:  8295.54 , Standard Deviation:  91.08 , Max value:  345.077 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/mouse_1.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 23.698 sec.
+RESULTS:
+ ---> Image 86: 415.png, matched keypoint: 4,  distance: 76.24933910369873
+ ---> Image 87: 187.png, matched keypoint: 4,  distance: 85.88725090026855
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.606 , Variance:  4.282 , Standard Deviation:  2.069 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  3.75 , Variance:  5.654 , Standard Deviation:  2.378 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  129.244 , Variance:  8204.881 , Standard Deviation:  90.581 , Max value:  345.077 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/mouse_2.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 24.087 sec.
+RESULTS:
+ ---> Image 88: 070.png, matched keypoint: 4,  distance: 118.07501029968262
+ ---> Image 89: 042.png, matched keypoint: 4,  distance: 142.9439468383789
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.631 , Variance:  4.247 , Standard Deviation:  2.061 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  3.754 , Variance:  5.562 , Standard Deviation:  2.358 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  129.061 , Variance:  8072.386 , Standard Deviation:  89.846 , Max value:  345.077 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/mouse_3.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 23.017 sec.
+RESULTS:
+ ---> Image 90: 352.png, matched keypoint: 4,  distance: 121.00634956359863
+ ---> Image 91: 376.png, matched keypoint: 4,  distance: 150.44110870361328
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.637 , Variance:  4.181 , Standard Deviation:  2.045 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  3.758 , Variance:  5.474 , Standard Deviation:  2.34 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  128.931 , Variance:  7943.216 , Standard Deviation:  89.125 , Max value:  345.077 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/mouse_4.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 24.049 sec.
+RESULTS:
+ ---> Image 92: 368.png, matched keypoint: 4,  distance: 142.16205978393555
+ ---> Image 93: 075.png, matched keypoint: 4,  distance: 161.80768966674805
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.659 , Variance:  4.146 , Standard Deviation:  2.036 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  3.762 , Variance:  5.388 , Standard Deviation:  2.321 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  129.141 , Variance:  7819.868 , Standard Deviation:  88.43 , Max value:  345.077 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/mouse_5.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.757 sec.
+RESULTS:
+ ---> Image 94: 185.png, matched keypoint: 4,  distance: 101.31839752197266
+ ---> Image 95: 155.png, matched keypoint: 4,  distance: 112.72020626068115
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.661 , Variance:  4.081 , Standard Deviation:  2.02 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  3.766 , Variance:  5.304 , Standard Deviation:  2.303 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  128.706 , Variance:  7709.589 , Standard Deviation:  87.804 , Max value:  345.077 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/mouse_6.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 24.785 sec.
+RESULTS:
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.694 , Variance:  4.087 , Standard Deviation:  2.022 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  3.708 , Variance:  5.438 , Standard Deviation:  2.332 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  126.726 , Variance:  7841.91 , Standard Deviation:  88.555 , Max value:  345.077 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/vite_1.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 23.620 sec.
+RESULTS:
+ ---> Image 96: 300.png, matched keypoint: 4,  distance: 147.64595985412598
+ ---> Image 97: 281.png, matched keypoint: 4,  distance: 148.05668258666992
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.708 , Variance:  4.038 , Standard Deviation:  2.009 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  3.712 , Variance:  5.357 , Standard Deviation:  2.314 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  127.043 , Variance:  7729.623 , Standard Deviation:  87.918 , Max value:  345.077 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/vite_2.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 25.854 sec.
+RESULTS:
+ ---> Image 98: 281.png, matched keypoint: 4,  distance: 234.3198471069336
+ ---> Image 99: 293.png, matched keypoint: 4,  distance: 241.20501327514648
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.755 , Variance:  4.123 , Standard Deviation:  2.031 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  3.716 , Variance:  5.278 , Standard Deviation:  2.297 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  128.644 , Variance:  7783.458 , Standard Deviation:  88.224 , Max value:  345.077 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/vite_3.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 24.487 sec.
+RESULTS:
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.78 , Variance:  4.106 , Standard Deviation:  2.026 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  3.662 , Variance:  5.4 , Standard Deviation:  2.324 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  126.752 , Variance:  7908.789 , Standard Deviation:  88.931 , Max value:  345.077 , Min value:  0.0
+
+
+FILE: ./files/_queries/similar/vite_4.png
+TIMES:
+ ---> START: Finding similar objects with SIFT, FLANN matcher and RANSAC.
+ ---> END: the method took 22.628 sec.
+RESULTS:
+ ---> Image 100: 253.png, matched keypoint: 4,  distance: 149.77655410766602
+ ---> Image 101: 266.png, matched keypoint: 4,  distance: 154.69140625
+CURRENT METRICS:
+ ---> TIMES:
+ ---> Average:  22.778 , Variance:  4.047 , Standard Deviation:  2.012 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  3.667 , Variance:  5.324 , Standard Deviation:  2.307 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  127.086 , Variance:  7801.74 , Standard Deviation:  88.327 , Max value:  345.077 , Min value:  0.0
+
+
+FINAL METRICS:
+ ---> TIMES:
+ ---> Average:  22.778 , Variance:  4.047 , Standard Deviation:  2.012 , Max value:  28.888 , Min value:  16.068
+ ---> MATCHED KEYPOINT:
+ ---> Average:  3.667 , Variance:  5.324 , Standard Deviation:  2.307 , Max value:  9 , Min value:  0
+ ---> AVERAGE DISTANCES:
+ ---> Average:  127.086 , Variance:  7801.74 , Standard Deviation:  88.327 , Max value:  345.077 , Min value:  0.0
