@@ -16,14 +16,14 @@ from resources.functions.functions import resize, search_image
 threads_configuration = ThreadsConfiguration(max_threads_number=12)
 
 # SIFT PARAMS
-query_features_extraction = SIFTConfiguration(features_number=10, contrast_threshold=0.02, edge_threshold=10, sigma=1.6, octave_layers=7)
+query_features_extraction = SIFTConfiguration(features_number=20, contrast_threshold=0.02, edge_threshold=10, sigma=1.6, octave_layers=7)
 repo_features_extraction = SIFTConfiguration(features_number=0, contrast_threshold=0.005, edge_threshold=100, sigma=1.6, octave_layers=7)
 
 # FLANN PARAMS
-flann_confing = FLANNConfiguration(algorithm_type=1, trees_number=11, checks_number=50, lowe_ratio=0.7)
+flann_config = FLANNConfiguration(algorithm_type=1, trees_number=11, checks_number=50, lowe_ratio=0.7)
 
 # RANSAC
-ransac_configuration = RANSACConfiguration(use_ransac=False, reprojection_error_threshold=5.0)
+ransac_configuration = RANSACConfiguration(use_ransac=True, reprojection_error_threshold=5.0)
 
 # IMAGES PARAMS
 query = File(path="../files/_queries/object_1/1.png", resolution_value=(640, 480))  # query definition with path and resolution limit
@@ -79,7 +79,7 @@ if __name__ == "__main__":
             query.set_descriptors(des)
 
             # images comparison from given folder
-            search_image(threads_configuration, query, file_list, repo_features_extraction, flann_confing, ransac_configuration)
+            search_image(threads_configuration, query, file_list, repo_features_extraction, flann_config, ransac_configuration)
 
             # first result by smaller average distance inside the higher number of matches
             file_list.sort_by_average_distance_inside_matches_classes(BEST_RESULTS_NUMBER)  # solution metric
